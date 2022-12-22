@@ -1,0 +1,13 @@
+#executables
+.vscode/
+.DS_Store
+lib/.DS_Store
+lib/macos/include/.DS_Store
+lib/macos/.DS_Store
+bin/main.exe
+bin/test.exe 
+test.exe  
+
+bin/leak_check
+bin/leak_check.dSYM/
+bin/main.dSYM/
